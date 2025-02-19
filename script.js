@@ -1,6 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
-
-
+const API_URL = "https://task-manager-vlu3.onrender.com";
 
 document.getElementById("taskForm").addEventListener("submit", async (e) => {
     e.preventDefault();
